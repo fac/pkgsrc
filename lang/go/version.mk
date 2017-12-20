@@ -1,5 +1,6 @@
 # $NetBSD: version.mk,v 1.46 2018/10/02 18:19:56 bsiegert Exp $
 
+CTF_SUPPORTED=	no
 SSP_SUPPORTED=	no
 
 .include "../../mk/bsd.prefs.mk"
