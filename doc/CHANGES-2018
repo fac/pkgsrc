@@ -1,4 +1,4 @@
-$NetBSD: CHANGES-2018,v 1.4402 2018/10/17 07:02:06 maya Exp $
+$NetBSD: CHANGES-2018,v 1.4405 2018/10/17 15:33:36 bsiegert Exp $
 
 Changes to the packages collection and infrastructure in 2018:
 
@@ -6140,3 +6140,6 @@ Changes to the packages collection and infrastructure in 2018:
 	Updated devel/cmake to 3.12.3nb1 [leot 2018-10-16]
 	Updated security/libssh to 0.76 [maya 2018-10-16]
 	Updated textproc/lowdown to 0.4.1 [maya 2018-10-17]
+	Updated lang/sbcl to 1.4.3nb1 [leot 2018-10-17]
+	Added sysutils/tsm8 version 8.1.6.0 [hauke 2018-10-17]
+	Updated finance/gnucash-docs to 3.3 [bsiegert 2018-10-17]
