@@ -1,4 +1,4 @@
-$NetBSD: CHANGES-2018,v 1.4405 2018/10/17 15:33:36 bsiegert Exp $
+$NetBSD: CHANGES-2018,v 1.4424 2018/10/18 19:55:10 bsiegert Exp $
 
 Changes to the packages collection and infrastructure in 2018:
 
@@ -6143,3 +6143,26 @@ Changes to the packages collection and infrastructure in 2018:
 	Updated lang/sbcl to 1.4.3nb1 [leot 2018-10-17]
 	Added sysutils/tsm8 version 8.1.6.0 [hauke 2018-10-17]
 	Updated finance/gnucash-docs to 3.3 [bsiegert 2018-10-17]
+	Updated net/vsftpd to 3.0.3nb1 [maya 2018-10-18]
+	Updated devel/py-hypothesis to 3.78.0 [adam 2018-10-18]
+	Updated devel/py-test to 3.9.1 [adam 2018-10-18]
+	Updated devel/py-autopep8 to 1.4.1 [adam 2018-10-18]
+	Updated databases/py-alembic to 1.0.1 [adam 2018-10-18]
+	Updated print/cups-filters to 1.21.3 [leot 2018-10-18]
+	Updated lang/ruby24-base to 2.4.5 [taca 2018-10-18]
+	Updated lang/ruby25-base to 2.5.3 [taca 2018-10-18]
+	Updated lang/ruby23-base to 2.3.8 [taca 2018-10-18]
+	Updated www/drupal7 to 7.60 [taca 2018-10-18]
+	Updated www/drupal8 to 8.6.2 [taca 2018-10-18]
+	Updated devel/libgit2 to 0.27.5 [taca 2018-10-18]
+	Updated devel/ruby-rugged to 0.27.5 [taca 2018-10-18]
+	Updated net/ndpi to 2.4 [adam 2018-10-18]
+	Updated net/ntopng to 3.6.1 [adam 2018-10-18]
+	Updated x11/libdrm to 2.4.96 [wiz 2018-10-18]
+	Updated x11/modular-xorg-server to 1.20.2 [wiz 2018-10-18]
+	Updated devel/patch to 2.7.6nb1 [leot 2018-10-18]
+	Updated devel/ncurses to 6.1nb3 [leot 2018-10-18]
+	Updated devel/ncursesw to 6.1nb1 [leot 2018-10-18]
+	Updated security/py-certifi to 2018.10.15 [adam 2018-10-18]
+	Updated www/py-urllib3 to 1.24 [adam 2018-10-18]
+	Updated mail/spamassassin to 3.4.2 [bsiegert 2018-10-18]
